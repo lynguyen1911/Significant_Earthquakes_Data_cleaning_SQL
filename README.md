@@ -6,4 +6,5 @@ In this project, I use SQL to clean the Significant Earthquakes (1965-2016) from
 - converte the numerical attributes that were stored as text to double.
 - create new columns (year, month) that are necessary for the following step analysis.
 - drop unnecessary columns.
+
 After above steps, the dataset is well formatted and ready for futher analysis. 
